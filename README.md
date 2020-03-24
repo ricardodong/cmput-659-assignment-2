@@ -8,9 +8,9 @@ python MH.py
 
 # input and output
 The program takes no input and will print r1 to r5. 
-<\br>
+
 The parameters are:
-<\br>
+
 ```
 # UCT parameters 
 c = 1 
